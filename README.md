@@ -7,11 +7,11 @@ Last nation wide local elections in Ukraine took place on October 25 and all the
 
 Two main lists for this elections
 
-[List of candidates to local councils](../blob/master/councils_candidates_local_2015.zip)
+[List of candidates to local councils](../master/councils_candidates_local_2015.zip)
 
-[List of candidates to city mayors](../blob/master/canditates_mayors_local_2015.csv)
+[List of candidates to city mayors](../master/canditates_mayors_local_2015.csv)
 
-And added [List of local councils members (except rural)](../blob/master/local_councils_members_23032017.csv)
+And added [List of local councils members (except rural)](../master/local_councils_members_23032017.csv)
 
 
 Please refere on our website when using our data
