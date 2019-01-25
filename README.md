@@ -3,9 +3,9 @@ OPORA Election Data
 
 added 2 new datasets
 
-[List of all settlements with election on OCT292017](https://github.com/OPORA/electiondata/blob/master/postanova%20pryznachennia%20vyboriv%20pershimiscevi2017-%20dirty.csv)
+[List of all settlements with election on 2017-10-29](https://github.com/OPORA/electiondata/blob/master/postanova%20pryznachennia%20vyboriv%20pershimiscevi2017-%20dirty.csv)
 
-[List of decomunized settlements titles. As for JUL12017](..//rename_settlements_01-07-2017.csv)
+[List of decomunized settlements titles. As for 2017-07-01](..//rename_settlements_01-07-2017.csv)
 
 Now we have here only three datasets but later we'll add more.
 
